@@ -14,3 +14,9 @@
     marks in 5 subjects of your choice. Create a function to display
     all the input details and his total average and percentage.
 
+##
+**P.S . -**  Solve the matrix questions given in class.
+- Write a java program to find if the given matrix is a unit matrix or not.
+- Write a java program to find the summation of lower triangle of a matrix.
+- Write a java program to find an element in a matrix and display its position.
+- Find transpose of a given matrix.
