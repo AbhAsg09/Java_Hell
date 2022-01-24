@@ -6,6 +6,7 @@
  - Print Fibonacci series. 
  -  Check Palindromic strings. 
  -  Check Palindromic numbers.
+ **Note** - After doing Palindromic strings and numbers, create an interactive program to check for palindromic number or string using method overloading.
  
 
 **Using classes**
