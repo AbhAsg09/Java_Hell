@@ -1,3 +1,4 @@
+//Code to check for palindromic strings
 package Abhishek;
 
 import java.util.Locale;
